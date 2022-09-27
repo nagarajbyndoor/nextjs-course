@@ -23,7 +23,7 @@ function HomePage(props) {
   return (
     <Fragment>
       <Head>
-        <title>Raeact Meetsup</title>
+        <title>Raeact New Meetsup</title>
         <meta
           name="description"
           content="Browse a huge list of highly active meetups"
